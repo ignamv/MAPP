@@ -1,0 +1,3 @@
+[submodule "VAPP"]
+	path = VAPP
+	url = https://github.com/ignamv/VAPP
